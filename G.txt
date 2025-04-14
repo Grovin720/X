@@ -3903,13 +3903,13 @@
             {
             "name": "AutoTV",
             "type": 0,
-            "url": "https://gitee.com/grovin/tg/raw/master/Key.json",
+            "url": "https://raw.kkgithub.com/Grovin720/iptv/main/live.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
-    {"name": "新源","type": 0,"url": "https://raw.kkgithub.com/Grovin720/TV/master/tv.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+    {"name": "新源","type": 0,"url": "https://gitee.com/grovin/tg/raw/master/Key.json","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     }
     ]
 }
