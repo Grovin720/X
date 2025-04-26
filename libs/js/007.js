@@ -8,7 +8,7 @@ var rule = {
     模板:'首图2',
     ali_token:'{{ali_token}}',
     bili_cookie:'{{bili_cookie}}',
-    host:'https://www.007ts.me',
+    host:'www.000788.cn',
     // url:'/show/fyclass--------fypage---.html',
     url:'/show/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
